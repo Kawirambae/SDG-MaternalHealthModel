@@ -1,12 +1,12 @@
-**AI-Driven Unsupervised Clustering of Maternal Health Risk Profiles
+AI-Driven Unsupervised Clustering of Maternal Health Risk Profiles
 Contributing to SDG 3: Good Health and Well-being
-**
-**Introduction**
+
+Introduction
 One of the core goals of Sustainable Development Goal 3 (SDG 3) is to ensure healthy lives and promote well-being for all, at all ages. A critical target under this goal is to reduce the global maternal mortality ratio to less than 70 per 100,000 live births by 2030. While maternal health systems have improved in many parts of the world, emerging lifestyle and demographic changes, such as older maternal age due to career prioritization, are introducing new, often underestimated risk factors.
 
 This project aims to uncover hidden patterns of maternal risk using machine learning, specifically unsupervised learning. Rather than manually labeling women as “high risk” or “low risk,” we allow an AI model to discover natural groupings within the data. These insights can support early intervention and more equitable maternal health strategies.
 
-**Methodology**
+Methodology
  1. Dataset
 We used a dataset containing over 8,800 maternal health records, featuring more than 600 clinical and demographic attributes. Key selected features included:
 
