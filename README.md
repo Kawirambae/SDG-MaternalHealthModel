@@ -10,6 +10,7 @@ This project aims to uncover hidden patterns of maternal risk using machine lear
 
 **Methodology**
  1. Dataset
+    
 We used a dataset containing over 8,800 maternal health records, featuring more than 600 clinical and demographic attributes. Key selected features included:
 
 Maternal age, weight, and height
@@ -73,7 +74,7 @@ Low Risk (Orange): Strong antenatal engagement
 
 Moderate Risk (Green): Spikes in stillbirths and poor outcomes
 
-💡 Insights & Impact
+** Insights & Impact**
 This unsupervised model highlights clinically relevant groupings of maternal profiles — helping uncover risk clusters that may not be obvious with manual screening. Importantly:
 
 It provides a data-driven basis for targeting interventions.
@@ -82,13 +83,13 @@ It could improve resource allocation in overstretched maternal health systems.
 
 It reveals non-obvious risks — such as younger women with poor outcomes.
 
-⚖️ Ethical Considerations
+ **Ethical Considerations**
 Bias & Representation: The dataset may underrepresent rural or marginalized communities.
 
 Interpretability: Though AI groups patterns, clinical interpretation is essential.
 
 Complementarity: This model should support, not replace, healthcare worker judgment.
 
-✅ Conclusion
+** Conclusion**
 By using unsupervised learning to cluster maternal health data, we demonstrate how machine learning can uncover emerging patterns in maternal risk — supporting more personalized, preventive care. This work directly aligns with SDG 3: Good Health and Well-being, and showcases the power of AI in solving critical public health challenges.
 
